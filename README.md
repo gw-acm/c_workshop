@@ -1,1 +1,3 @@
-This repo is used to store the c_programming workshops the ACM hosts every year.
+The old_workshop directory contains the files from a previously taught c workshop in 2014.
+
+I didn't want to delete the old workshop so I created two directories, one for the old workshop, one for the new workshop.
